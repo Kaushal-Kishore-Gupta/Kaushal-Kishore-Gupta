@@ -9,6 +9,11 @@
 - 🌱 I’m currently learning **Flutter, PHP, SQL, MongoDB**
 
 - 📫 How to reach me **thekaushalkishoregupta@gmail.com**
+- <br />
+
+<img align="right" alt="GIF" src="giphy.webp" width="320" height="320" />
+
+<br />
 
 
 <h3 align="left">Connect with me:</h3>
