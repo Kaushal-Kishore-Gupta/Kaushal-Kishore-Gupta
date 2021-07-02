@@ -27,5 +27,7 @@
   <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-kishore-gupta&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&count_private=true" alt="kaushal-kishore-gupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-kishore-gupta&show_icons=true&locale=en&theme=gotham&hide_border=true&count_private=true" alt="kaushal-kishore-gupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-kishore-gupta&show_icons=true&locale=en&theme=gotham&hide_border=true&count_private=true" alt="kaushal-kishore-Gupta" /></p>
+  <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=KAUSHAL-KISHORE-GUPTA&theme=react-dark&hide_border=true">
 
