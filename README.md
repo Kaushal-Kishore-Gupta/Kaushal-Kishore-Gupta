@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <a href="https://voicifer.co">Voicifer</a>
 
-- 🌱 I’m currently learning **Flutter, PHP, SQL, MongoDB**
+- 🌱 I’m currently learning **QT, Kernels, SQL, MongoDB**
 
 - 📫 How to reach me **thekaushalkishoregupta@gmail.com**
 <br />
