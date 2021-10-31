@@ -31,7 +31,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaushal-Kishore-Gupta&show_icons=true&locale=en&theme=gotham&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushal-Kishore-Gupta&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&count_private=true" />
 </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaushal-Kishore-Gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mahi-badaya" /> </p> -->
+
 <img src="https://activity-graph.herokuapp.com/graph?username=KAUSHAL-KISHORE-GUPTA&theme=react-dark&hide_border=true">
 <audio controls autoplay>
   
