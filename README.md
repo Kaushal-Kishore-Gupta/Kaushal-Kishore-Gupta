@@ -76,12 +76,17 @@ learning: [Kernels, Systems Design, LLM Orchestration]
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaushal-Kishore-Gupta&show_icons=true&count_private=true&theme=gotham&hide_border=true&title_color=0e75b6&icon_color=0e75b6" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaushal-Kishore-Gupta&layout=compact&count_private=true&theme=gotham&hide_border=true&title_color=0e75b6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaushal-Kishore-Gupta&theme=github_dark" width="95%"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Kaushal-Kishore-Gupta&theme=gotham&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaushal-Kishore-Gupta&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaushal-Kishore-Gupta&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaushal-Kishore-Gupta&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaushal-Kishore-Gupta&theme=github_dark" />
 </p>
 
 <p align="center">
