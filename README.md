@@ -1,40 +1,101 @@
-<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
-<h1 align="center"> I'm Kaushal Kishore</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-kishore-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-kishore-gupta" /> </p>
-
-- 🔭 I’m currently working on <a href="https://voicifer.co">Voicifer</a>
-
-- 🌱 I’m currently learning **QT, Kernels, SQL, MongoDB**
-
-- 📫 How to reach me **thekaushalkishoregupta@gmail.com**
-<br />
-
-<img align="right" alt="GIF" src="giphy.webp" width="320" height="320" />
-
-<br />
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaushal-kishore-9728b71b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-kishore-9728b71b3" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-<h4>Some Stats<h4>
-  <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-kishore-gupta&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&count_private=true" alt="kaushal-kishore-gupta" /></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kaushal+Kishore;Backend+%2B+Distributed+Systems+Engineer;I+build+scalable%2C+fault-tolerant+systems" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaushal-Kishore-Gupta&show_icons=true&locale=en&theme=gotham&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushal-Kishore-Gupta&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&count_private=true" />
+  <a href="https://linkedin.com/in/kaushal-kishore-gupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:thekaushalkishoregupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kaushal-Kishore-Gupta&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=KAUSHAL-KISHORE-GUPTA&theme=react-dark&hide_border=true">
-<audio controls autoplay>
-  
-  <source src="https://binge.voicifer.co/storage/audios/songs/605918490sugar-brownies-dharia-vlcmusiccom.mp3" type="audio/mpeg">
-</audio>
+---
 
+### 🧑‍💻 About Me
+
+```yaml
+name: Kaushal Kishore
+role: Software Engineer @ Chargebee
+based_in: Bengaluru, India
+focus: [Distributed Systems, Backend, Reliability, AI/RAG]
+currently: building AI microservices & taming production incidents
+learning: [Kernels, Systems Design, LLM Orchestration]
+```
+
+- 🔭 Currently a **Software Engineer at Chargebee** — building AI-driven microservices and keeping high-volume subscription pipelines reliable.
+- 🧠 I like **debugging distributed systems**, optimizing backend APIs, and building things that don't fall over at 3 AM.
+- ⚡ Recently built a **Spring AI + pgvector RAG** sales microservice that cut deal-proposal time by **80%**.
+- 🎓 B.Tech in **Computer Science** (Minor in Data Science), Manipal University.
+- 📫 Reach me at **thekaushalkishoregupta@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white"/>
+</p>
+
+**Databases & Data**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+**Cloud, Infra & Tools**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaushal-Kishore-Gupta&show_icons=true&count_private=true&theme=gotham&hide_border=true&title_color=0e75b6&icon_color=0e75b6" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaushal-Kishore-Gupta&layout=compact&count_private=true&theme=gotham&hide_border=true&title_color=0e75b6" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Kaushal-Kishore-Gupta&theme=gotham&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushal-Kishore-Gupta&theme=react-dark&hide_border=true&color=0e75b6&line=0e75b6&point=ffffff" width="95%"/>
+</p>
+
+---
+
+### 🏆 Highlights
+
+- 🧙 **MUJ Wizard Programmer** — won MUJ-T Hackathon against 64 teams
+- 🥉 **Flipkart GRID 5.0** SDE Semi-Finalist (out of 3,97,365 participants)
+- 🥇 **Best Minor Project** — Flexcase ranked 1st in the CSE Department
+
+---
+
+<p align="center"><i>⚡ "I make anything I wish."</i></p>
